@@ -1,0 +1,43 @@
+body{
+    background-image: url(images/photo_2021-03-07_14-03-09.jpg);
+    margin: 0 10%;
+}
+#main{
+    border: 10px solid white;
+    background-color: white;
+}
+.header{
+    text-align: right;
+    background-color: #A8F0F0;
+}
+.ironbar{
+    border: 5px solid orange;
+}
+.spider{
+    border: 4px solid #C2E9E9;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin: 0px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+span{
+    border-bottom: 2px dashed;
+}
+.spider img{
+    float: right;
+}
+.navbar h2{
+    font-size: 14pt;
+}
+.friends{
+    border: 5px solid #0fb4bf;
+    float: left;
+    margin: 10px;
+    margin-left: 0px;
+    padding: 5px;
+    background-color: #A8F0F0;
+}
+.spidey{
+    overflow: hidden;
+}
